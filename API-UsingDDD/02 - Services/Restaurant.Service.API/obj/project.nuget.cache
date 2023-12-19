@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "6XBn9cT8dmNpFJhlFpw0+2gt4+DqQhFPnjamLLAGgYj5zFUmd1LauB6XUI6vmjNkoBqsjK6eCmUOUCNIsntwFQ==",
+  "dgSpecHash": "TCCYN+unMDaC6wZ+q1W/XSxgO6022RQBXfsLHyzwcArCG+5o0+FZ403uLNyiT3RF4PKFwzaYcgi1cr5fFnTI2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tulio\\OneDrive\\Área de Trabalho\\Fuck Study\\API DDD\\API-UsingDDD\\02 - Services\\Restaurant.Service.API\\Restaurant.Service.API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Tulio\\OneDrive\\Área de Trabalho\\Fuck Study\\API DDD\\API-UsingDDD\\02 - Services\\Restaurant.Service.API\\Restaurant.Service.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
