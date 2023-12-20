@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "r6hAO5iS8zmxLP5Tmavhn5iNRD8X0Hjw6eVWaCPf4dGbZI1oNKXEwISV991+jx10ck0sgSuA5Dy0hGHgBufW5w==",
+  "dgSpecHash": "FDSPpSBE0aJWeYH7dpFP01YfSTvOFmF43iPaaBW1k+7+ATin7y6Z0pP44gRTQ8xJxCp0H6kLiRFLRKAADnAyNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tulio\\OneDrive\\Área de Trabalho\\Fuck Study\\API DDD\\API-UsingDDD\\03 - Application\\Restaurant.Application\\Restaurant.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Tulio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tulio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
